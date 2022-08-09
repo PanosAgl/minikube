@@ -34,12 +34,12 @@ session_start();
 <body>
 
 	
-	
+	<center>
 	<img src="images/logo_kube.png" alt="logokube" class="center">
 	<h1>Hello, <?php echo $user_data['user_name']; ?></h1><br>
 	<h2>WELCOME TO KUBERNETES</h2><br><br>
 	<button type="button" class="logoutbtn"><h3><a href="logout.php">Logout</a><h3></button>
-	
+	</center>
 	
 
   
