@@ -1,6 +1,6 @@
 <?php
 
-$dbhost = "10.99.86.205";
+$dbhost = "172.17.0.2";
 $dbuser = "root";
 $dbpass = "panos";
 $dbname = "k8sdb";
