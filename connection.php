@@ -2,7 +2,7 @@
 
 $dbhost = "10.109.216.91";
 $dbuser = "root";
-$dbpass = "panos";
+$dbpass = "root";
 $dbname = "k8sdb";
 
 $con = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname);
