@@ -1,6 +1,6 @@
 <?php
 
-$dbhost = "10.109.216.91";
+$dbhost = "10.110.231.143";
 $dbuser = "root";
 $dbpass = "root";
 $dbname = "k8sdb";
