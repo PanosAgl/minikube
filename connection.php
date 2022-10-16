@@ -2,8 +2,8 @@
 
 $dbhost = "10.104.33.171";
 $dbuser = "root";
-$dbpass = "panicap";
-$dbname = "kubernetes";
+$dbpass = "panos";
+$dbname = "k8sdb";
 
 $con = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname);
 
