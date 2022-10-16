@@ -1,6 +1,6 @@
 <?php
 
-$dbhost = "10.109.226.31";
+$dbhost = "10.104.33.171";
 $dbuser = "root";
 $dbpass = "panicap";
 $dbname = "kubernetes";
